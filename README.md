@@ -22,28 +22,38 @@ rcon exec live.cfg
 
 ### `live.cfg`
 
-Config for competitive 5v5 matches with most common settings used in leagues and tournaments. Based on [ESL 5v5 server config](https://play.eslgaming.com/download/26251762/), but without the half time scoreboard bug.
+Config for a competitive 5v5 matches with default settings used in leagues and tournaments. Based on [ESL 5v5 server config](https://play.eslgaming.com/download/26251762/), but without the half time scoreboard bug.
 
 ### `knife.cfg`
 
-Config for knife round with kevlar vest.
+Config for knife rounds with kevlar vest.
 
 ### `knife_taser.cfg`
 
-Config for knife round with taser and kevlar vest. Useful for fun knife rounds.
+Config for knife rounds with taser and kevlar vest. 
+
+Useful for knife rounds with a twist.
 
 ### `knife_he.cfg`
 
-Config for knife round with HE grenade and kevlar vest. Useful for fun knife rounds.
+Config for knife rounds with HE grenade and kevlar vest. 
+
+Useful for knife rounds with a twist.
 
 ### `knife_taser_he.cfg`
 
-Config for knife round with taser, HE grenade and kevlar vest. Useful for fun knife rounds.
+Config for knife rounds with taser, HE grenade and kevlar vest. 
+
+Useful for knife rounds with a twist.
 
 ### `aim.cfg`
 
-Config for aim maps with kevlar vest.
+Config for aim maps with kevlar vest and helmet.
+
+**Note:** Some aim maps don't support kevlar vest and helmet.
 
 ### `deathmatch.cfg`
 
-Config for free-for-all (FFA) deathmatch with AK-47 as primary weapon, Deagle as secondary weapon, kevlar vest and helmet. Useful for warmup instead of the spawning in the base.
+Config for free-for-all (FFA) deathmatch with AK-47 as primary weapon, Deagle as secondary weapon, kevlar vest and helmet. 
+
+Useful as warmup alternative to spawning in the base.
