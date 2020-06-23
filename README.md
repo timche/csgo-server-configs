@@ -30,19 +30,19 @@ Config for knife rounds with kevlar vest.
 
 ### `knife_taser.cfg`
 
-Config for knife rounds with taser and kevlar vest. 
+Config for knife rounds with taser and kevlar vest.
 
 Useful for knife rounds with a twist.
 
 ### `knife_he.cfg`
 
-Config for knife rounds with HE grenade and kevlar vest. 
+Config for knife rounds with HE grenade and kevlar vest.
 
 Useful for knife rounds with a twist.
 
 ### `knife_taser_he.cfg`
 
-Config for knife rounds with taser, HE grenade and kevlar vest. 
+Config for knife rounds with taser, HE grenade and kevlar vest.
 
 Useful for knife rounds with a twist.
 
@@ -52,8 +52,14 @@ Config for aim maps with kevlar vest and helmet.
 
 **Note:** Some aim maps don't support kevlar vest and helmet.
 
+### `aim_kevlar.cfg`
+
+Config for aim maps with kevlar vest only.
+
+**Note:** Some aim maps don't support kevlar vest.
+
 ### `deathmatch.cfg`
 
-Config for free-for-all (FFA) deathmatch with AK-47 as primary weapon, Deagle as secondary weapon, kevlar vest and helmet. 
+Config for free-for-all (FFA) deathmatch with AK-47 as primary weapon, Deagle as secondary weapon, kevlar vest and helmet.
 
 Useful as warmup alternative to spawning in the base.
