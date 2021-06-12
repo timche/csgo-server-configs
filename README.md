@@ -22,7 +22,7 @@ rcon exec live.cfg
 
 ### `live.cfg`
 
-Config for a competitive 5v5 matches with default settings used in leagues and tournaments. Based on [ESL 5v5 server config](https://play.eslgaming.com/download/26251762/), but without the half time scoreboard bug.
+Config for competitive 5v5 matches with default settings used in leagues and tournaments. Based on [ESL 5v5 server config](https://play.eslgaming.com/download/26251762/), but without the half time scoreboard bug.
 
 ### `knife.cfg`
 
