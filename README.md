@@ -69,3 +69,11 @@ Useful as default warmup (spawning in the base) alternative.
 Same as `deathmatch.cfg`, but with headshots only.
 
 Useful as default warmup (spawning in the base) alternative.
+
+### `surf.cfg`
+
+Config for surf maps.
+
+### `kz.cfg`
+
+Config for kz "Kreedz Climbing" maps.
